@@ -1,3 +1,7 @@
+# -*- coding: UTF-8 -*-
+
+# 此文档来自github:https://github.com/adarsh0806/ud036_StarterCode.git
+
 import webbrowser
 import os
 import re
